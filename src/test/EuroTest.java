@@ -1,8 +1,9 @@
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
+import java.text.DecimalFormat;
+import java.text.ParseException;
+
+import static org.junit.Assert.*;
 
 public class EuroTest {
 
@@ -31,5 +32,10 @@ public class EuroTest {
     @Test
     public void tenEurosShouldEqualThirteenHalfDollars() {
         assertTrue(new Euro(10).equals(new Dollar(13.5)));
+    }
+
+    @Test
+    public void tenEuroShouldEqual740Point76Rupees() throws ParseException {
+        assertTrue(new Euro(10).equals(new Rupees(740.76)));
     }
 }
