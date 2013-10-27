@@ -31,8 +31,15 @@ public class CurrencyConverterTest {
     @Test
     public void shouldReturn847Dot8RupeesWhen10Euro() {
         CurrencyConverter converter = new CurrencyConverter();
-        boolean result = converter.checkIfEquals(new Euro(10f), new Rupee(847.8f));
+        boolean result = converter.checkIfEquals(new Euro(10f), new Rupee(740.76f));
         assertTrue(result);
+    }
+
+    @Test
+    public void euroShouldNotEqualDollarOfSameAmount() {
+        CurrencyConverter converter = new CurrencyConverter();
+        boolean result = converter.checkIfEquals(new Euro(10f), new USDollar(10f));
+        assertFalse(result);
     }
 
 }

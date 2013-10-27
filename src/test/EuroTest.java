@@ -27,10 +27,7 @@ public class EuroTest {
         assertEquals(new Euro(10), new Euro(5).add(new Euro(5)));
     }
 
-    @Test
-    public void euroShouldNotEqualDollarOfSameAmount() {
-        assertFalse(new Euro(10).equals( new USDollar(10)));
-    }
+
 
 
 

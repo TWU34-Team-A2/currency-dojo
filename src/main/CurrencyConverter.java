@@ -12,7 +12,7 @@ public class CurrencyConverter {
         if(currency == CurrencyType.USDOLLAR)
             return 1.35f;
         else if(currency == CurrencyType.RUPEE)
-            return 84.78f;
+            return 74.076f;
         else
             return 1f;
     }
@@ -24,6 +24,10 @@ public class CurrencyConverter {
 
     public boolean checkIfEquals(Euro euro, Rupee rupee) {
         float rate = exchangeRate(euro, CurrencyType.RUPEE);
-        return euro.getAmount() * rate == rupee.getAmount();
+        return roundToTwoDecimals(euro.getAmount() * rate) == roundToTwoDecimals(rupee.getAmount());
+    }
+
+    private float roundToTwoDecimals(float amount) {
+        return Math.round(amount*100)/100;
     }
 }
