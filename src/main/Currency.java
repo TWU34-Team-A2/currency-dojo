@@ -5,7 +5,7 @@
  * Time: 6:40 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Currency {
+public abstract class Currency {
 
 
     private final double value;
@@ -32,14 +32,7 @@ public class Currency {
             return false;
         }
 
-        if(o instanceof Dollar)
-        {
-            currency = ((Dollar) o).dollarToEuro(currency);
-        }
-        else if(o instanceof Rupee)
-        {
-            currency = ((Rupee) o).rupeeToEuro(currency);
-        }
+        currency = currency.toEuro(currency);
 
         if (Double.compare(currency.value, value) != 0) return false;
 
@@ -52,22 +45,10 @@ public class Currency {
         return (int) (temp ^ (temp >>> 32));
     }
 
-    public Euro dollarToEuro(Currency dollar)
-    {
-        double rate = 1/1.35;
-
-        return (new Euro(dollar.getValue() * rate));
-    }
-
-    public Euro rupeeToEuro(Currency rupee)
-    {
-        double rate = 1/74.076;
-
-        return (new Euro(rupee.getValue() * rate));
-    }
-
     public double getValue() {
         return value;
     }
+
+    public abstract Euro toEuro(Currency currency);
 
 }

@@ -11,4 +11,8 @@ public class Rupee extends Currency{
         super(value);
     }
 
+    public Euro toEuro(Currency rupee)
+    {
+        return (new Euro(rupee.getValue()*(1/74.076)));
+    }
 }

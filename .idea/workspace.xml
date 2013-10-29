@@ -6,8 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/EuroTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382883938979" ignored="false" />
     <file path="/fragment.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382877243533" ignored="false" />
-    <file path="/Euro.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382882372993" ignored="false" />
-    <file path="/Dollar.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382879710281" ignored="false" />
+    <file path="/Euro.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382974419609" ignored="false" />
+    <file path="/Dollar.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382974407756" ignored="false" />
     <file path="$PROJECT_DIR$/../TDD/src/test/MommifyTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382606407857" ignored="false" />
     <file path="/MommifyTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382606405297" ignored="false" />
     <file path="$PROJECT_DIR$/../TDD/src/main/Mommifier/Mommifier.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382606420739" ignored="false" />
@@ -23,8 +23,48 @@
     <file path="/MockPrinter.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382808584498" ignored="false" />
     <file path="$PROJECT_DIR$/../../TWU_CashregisterDojo-master 2/test/CashRegisterTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382815835142" ignored="false" />
     <file path="/CashRegisterTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382815816208" ignored="false" />
-    <file path="/Rupee.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382879880936" ignored="false" />
-    <file path="/Currency.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382883733603" ignored="false" />
+    <file path="/Rupee.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382974416132" ignored="false" />
+    <file path="/Currency.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1382975468519" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/com/trailblazers/freewheelers/service/impl/AccountServiceImplTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153055" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/ManageItemsTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/spring/mvc-config.xml" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/OrderTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/service/ServiceResult.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/com/trailblazers/freewheelers/web/ItemControllerTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/service/ItemService.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/model/AccountRole.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/model/ReserveOrder.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/model/AccountValidation.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/model/Account.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/HomeController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/apis/AdminApi.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/AdminController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/apis/UserApi.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/service/impl/AccountServiceImpl.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/ItemGrid.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/UserProfileController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/service/impl/ItemServiceImpl.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/AccountController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/ItemController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/com/trailblazers/freewheelers/model/ItemValidationTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/LoginController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/com/trailblazers/freewheelers/model/AccountValidationTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/web/ReserveController.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/com/trailblazers/freewheelers/model/AccountTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/web.xml" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/mappers/AccountMapper.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/mappers/ItemMapper.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/mappers/AccountRoleMapper.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/java/com/trailblazers/freewheelers/mappers/MyBatisUtil.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/helpers/SyntaxSugar.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/functional/com/trailblazers/freewheelers/AccountTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383039576198" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/spring/security-app-context.xml" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383029153056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/views/account/create.jsp" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383037963061" ignored="false" />
+    <file path="/create.jsp" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383032803165" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/views/account/details.jsp" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383033483379" ignored="false" />
+    <file path="/details.jsp" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383033412097" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/main/webapp/WEB-INF/views/details.jsp" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383033450971" ignored="false" />
+    <file path="$PROJECT_DIR$/../../trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/AccountMapperTest.java" changelist="e77cbfff-c54d-4d9c-888b-d6cf143b26b6" time="1383041901011" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,23 +116,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/Currency.java" line="19" class="Currency" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -105,7 +128,16 @@
       <file leaf-file-name="EuroTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/EuroTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="37" selection-start="974" selection-end="974" vertical-scroll-proportion="0.89461356">
+            <state line="46" column="35" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.75931674">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dollar.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Dollar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,7 +146,7 @@
       <file leaf-file-name="Currency.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Currency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="35" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+            <state line="51" column="42" selection-start="996" selection-end="996" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,7 +155,7 @@
       <file leaf-file-name="Rupee.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Rupee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="35" selection-start="176" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="13" column="31" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,7 +164,7 @@
       <file leaf-file-name="Euro.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Euro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,18 +180,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/Dollar.java" />
-        <option value="$PROJECT_DIR$/src/main/Euro.java" />
-        <option value="$PROJECT_DIR$/src/main/Currency.java" />
-        <option value="$PROJECT_DIR$/src/main/Rupee.java" />
         <option value="$PROJECT_DIR$/src/test/EuroTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Rupee.java" />
+        <option value="$PROJECT_DIR$/src/main/Dollar.java" />
+        <option value="$PROJECT_DIR$/src/main/Currency.java" />
+        <option value="$PROJECT_DIR$/src/main/Euro.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="795" />
+    <option name="height" value="792" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -211,7 +243,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,7 +300,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,23 +310,23 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../trunk" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EuroTest.dollar1_35EqualsEuro">
+  <component name="RunManager" selected="JUnit.EuroTest">
     <configuration default="false" name="EuroTest.EuroTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ValueObject" />
@@ -389,7 +421,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -430,19 +468,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -469,6 +494,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -516,9 +554,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EuroTest.dollar1_35EqualsEuro" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.EuroTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.EuroTest.dollarNotEqualEuro" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EuroTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EuroTest.dollarNotEqualEuro" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EuroTest.dollar1_35EqualsEuro" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.EuroTest.shouldBeEuro10WhenEuro5PlusEuro5" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.EuroTest.EuroTest" />
       </list>
@@ -555,7 +593,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="795" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -563,25 +601,25 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39851853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39850748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037037" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.67407405" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32592592" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.67164177" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -650,13 +688,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/Euro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="58" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/EuroTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -678,86 +709,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Dollar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/RuntimeException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="11" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/NullPointerException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="11" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-6.0">
-          <folding />
-        </state>
+        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-6.0" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runner/JUnitCore.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="35" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.4637224">
-          <folding />
-        </state>
+        <state line="31" column="35" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.4637224" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="16" selection-start="2766" selection-end="2766" vertical-scroll-proportion="0.30882353">
-          <folding />
-        </state>
+        <state line="50" column="16" selection-start="2766" selection-end="2766" vertical-scroll-proportion="0.30882353" />
       </provider>
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/reflect/InvocationTargetException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="406" selection-end="406" vertical-scroll-proportion="0.43650794">
-          <folding />
-        </state>
+        <state line="12" column="11" selection-start="406" selection-end="406" vertical-scroll-proportion="0.43650794" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/junit/framework/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="525" selection-end="525" vertical-scroll-proportion="0.3125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Euro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Rupee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="176" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="13" column="31" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="35" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+        <state line="51" column="42" selection-start="996" selection-end="996" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Dollar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/EuroTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="37" selection-start="974" selection-end="974" vertical-scroll-proportion="0.89461356">
+        <state line="46" column="35" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.75931674">
           <folding />
         </state>
       </provider>
